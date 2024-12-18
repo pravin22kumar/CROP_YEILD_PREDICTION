@@ -101,4 +101,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 Pravinkumar A- Pravinkumar22005@gmail.com
 
-Project Link: [https://github.com/yourusername/crop-yield-prediction](https://github.com/yourusername/crop-yield-prediction)
+Project Link: [[https://github.com/yourusername/crop-yield-prediction](https://github.com/yourusername/crop-yield-prediction)](https://github.com/pravin22kumar/CROP_YEILD_PREDICTION)
