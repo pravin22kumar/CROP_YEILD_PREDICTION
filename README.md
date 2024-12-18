@@ -66,7 +66,7 @@ python app.py
 streamlit run dashboard.py
 ```
 - Dashboard will open in your default web browser
-
+---
 ## Input Features
 The prediction model considers the following features:
 - Year
@@ -75,30 +75,30 @@ The prediction model considers the following features:
 - Average Temperature (°C)
 - Area/Region
 - Crop Type
-
+---
 ## Model Details
 - Algorithm: Decision Tree Regression
 - Preprocessing: Custom preprocessor for feature transformation
 - Trained on historical agricultural data
-
+---
 ## Data Visualization
 The Streamlit dashboard offers:
 - Crop-wise yield analysis
 - Region-wise yield treemap
 - Time series yield analysis
 - Hierarchical yield view by region and crop
-
+---
 ## Contributing
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
+---
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
-
+---
 ## Contact
 Pravinkumar A- Pravinkumar22005@gmail.com
-
-Project Link: [[https://github.com/yourusername/crop-yield-prediction](https://github.com/yourusername/crop-yield-prediction)](https://github.com/pravin22kumar/CROP_YEILD_PREDICTION)
+---
+Project Link: [https://github.com/pravin22kumar/CROP_YEILD_PREDICTION]
