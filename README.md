@@ -99,6 +99,6 @@ The Streamlit dashboard offers:
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-Your Name - your.email@example.com
+Pravinkumar A- Pravinkumar22005@gmail.com
 
 Project Link: [https://github.com/yourusername/crop-yield-prediction](https://github.com/yourusername/crop-yield-prediction)
